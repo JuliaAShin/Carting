@@ -845,6 +845,7 @@ footer a {
 		row-gap: 5px;
 		justify-content: center;
 		align-items: center;
+		cursor: pointer;
 	}
 
 	.menu-hamburger_line {
